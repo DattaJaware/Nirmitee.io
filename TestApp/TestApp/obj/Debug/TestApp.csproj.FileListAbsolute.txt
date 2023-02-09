@@ -1,0 +1,7 @@
+C:\Personal Storage\Datta Jaware\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Personal Storage\Datta Jaware\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Personal Storage\Datta Jaware\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Personal Storage\Datta Jaware\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Personal Storage\Datta Jaware\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Personal Storage\Datta Jaware\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Personal Storage\Datta Jaware\TestApp\TestApp\obj\Debug\TestApp.pdb
